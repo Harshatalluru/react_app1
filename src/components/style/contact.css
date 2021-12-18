@@ -1,0 +1,23 @@
+.section-2 {
+  margin: 100px;
+  margin-left: 200px;
+  text-align: left;
+  margin: auto;
+}
+.section-3 {
+  height: 200px;
+  width: 1000px;
+  box-shadow: 30px;
+  background-color: aquamarine;
+  border-radius: 25px;
+  margin-bottom: 20px;
+  margin: auto;
+}
+.section-4 {
+  height: 200px;
+  width: 300px;
+  display: auto;
+  background-color: aqua;
+  border-radius: 20px;
+  margin: auto;
+}

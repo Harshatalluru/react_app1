@@ -1,0 +1,42 @@
+.header {
+  background-color: white;
+
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.08), 0 5px 4px 0 rgba(0, 0, 0, 0.12);
+  margin-bottom: 50px;
+}
+
+li {
+  display: inline;
+  padding: 20px;
+  color: green;
+  font-size: 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 600px;
+  padding-top: 40px;
+}
+
+img {
+  float: left;
+  padding-top: 5px;
+  padding-left: 30px;
+  width: 120px;
+  height: 90px;
+  border-radius: 10px;
+}
+
+button {
+  padding: 100px;
+}
+
+.card {
+  width: 70%;
+  height: 500px;
+  box-shadow: 70px;
+  border-radius: 30px;
+  padding-left: 30px;
+  padding-top: 30px;
+}
